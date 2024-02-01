@@ -1,0 +1,1 @@
+In this Project, I have used the concept of different tags of HTML, use differnt styling concepts of css, and use array concepts such as for each loop, from and Dom manipulation and events concepts of javascript.
